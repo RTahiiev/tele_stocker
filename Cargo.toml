@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "teleStocker",
+    "stocker_traits",
+    "stocker_traits_derive",
+]
